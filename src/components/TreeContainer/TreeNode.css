@@ -1,0 +1,22 @@
+.tree-node {
+  background-color: #fff;
+  height: 40px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border: 1px solid #d7d7d7;
+  box-shadow: 0.2px 2px 5px 0.5px #d2d2d2;
+  margin: 10px;
+  cursor: grab;
+}
+
+.group-wrapper {
+  background-color: #fff;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #d7d7d7;
+  box-shadow: 0.2px 2px 5px 0.5px #d2d2d2;
+  margin: 10px;
+}
