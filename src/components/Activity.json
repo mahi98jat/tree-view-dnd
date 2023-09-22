@@ -1,0 +1,102 @@
+[
+  {
+    "activityDefinitionId": "activitydefinition-5ec4359297dc42738116d2e58abc7d2b",
+    "name": "activity 77",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": "activitygroup-d3e2c362d0594daab6cc938a02044f65"
+  },
+  {
+    "activityDefinitionId": "activitydefinition-50e14fa04b1b4d8dbe4fa25e806c2390",
+    "name": "activity 5",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": "activitygroup-40e0d3091a9a4bb38b2e86c672c173fd"
+  },
+  {
+    "activityDefinitionId": "activitydefinition-8f0b93e9c13b47f890a1034e61db375f",
+    "name": "Untitled Document 2",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": "activitygroup-b9c4bec665e74a27bba551bd9dcdb2b3"
+  },
+  {
+    "activityDefinitionId": "activitydefinition-d877aeb7def44eb28ad81eb843584404",
+    "name": "Participant details Activity",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": "SentForSigning",
+    "runActivityId": "workflowrunactivity-b0373616cb644222a60950800cefff11",
+    "parentGroupId": "activitygroup-41515055e350402faec882cf9ef4e401"
+  },
+  {
+    "activityDefinitionId": "activitydefinition-8f2eabbb584f485393dda5de7cce95e3",
+    "name": "sample",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": null
+  },
+  {
+    "activityDefinitionId": "activitydefinition-2c945a246e584f2aae36be8fc1c5e76a",
+    "name": "sample view only doc",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": null
+  },
+  {
+    "activityDefinitionId": "activitydefinition-3dd00f9dbfba43f48ab0e8d64966366c",
+    "name": "zuhjk",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": null
+  },
+  {
+    "activityDefinitionId": "activitydefinition-c0d9191a63ed4c429c0c23532d9a3a23",
+    "name": "Egdhsjkfh",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": null
+  },
+  {
+    "activityDefinitionId": "activitydefinition-76743664c2e140c199be7fc0369d5844",
+    "name": "gdawfasfd",
+    "status": "Configured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": null
+  },
+  {
+    "activityDefinitionId": "activitydefinition-888bc407aecd464cb97d98a0285a3ec7",
+    "name": "Untitled Document",
+    "status": "NotConfigured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": "activitygroup-c234b75ba0d94f20aa046eba69995565",
+    "templateDocumentId": "document-208c450d06b148df9e6cb868a8d15309"
+  },
+  {
+    "activityDefinitionId": "activitydefinition-49651c815e434c60b26a5d32c177e284",
+    "name": "activity 7",
+    "status": "NotConfigured",
+    "checklistId": null,
+    "runActivityStatus": null,
+    "runActivityId": null,
+    "parentGroupId": "activitygroup-41515055e350402faec882cf9ef4e401"
+  }
+]

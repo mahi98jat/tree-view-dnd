@@ -1,0 +1,56 @@
+[
+  {
+    "activityGroupId": "activitygroup-c234b75ba0d94f20aa046eba69995565",
+    "name": "Group Name1",
+    "description": "",
+    "parentGroupId": null
+  },
+  {
+    "activityGroupId": "activitygroup-41515055e350402faec882cf9ef4e401",
+    "name": "Group Name 3",
+    "description": "",
+    "parentGroupId": null
+  },
+  {
+    "activityGroupId": "activitygroup-b9c4bec665e74a27bba551bd9dcdb2b3",
+    "name": "Group Name 4",
+    "description": "",
+    "parentGroupId": null
+  },
+  {
+    "activityGroupId": "activitygroup-b8a5362f07134d5aa6bee27ff9e60f04",
+    "name": "Group Name 2",
+    "description": "",
+    "parentGroupId": "activitygroup-41515055e350402faec882cf9ef4e401"
+  },
+  {
+    "activityGroupId": "activitygroup-40e0d3091a9a4bb38b2e86c672c173fd",
+    "name": "Group Name 5",
+    "description": "",
+    "parentGroupId": null
+  },
+  {
+    "activityGroupId": "activitygroup-01e17f5207724009b1899835c944b934",
+    "name": "Group Name 10",
+    "description": "",
+    "parentGroupId": "activitygroup-40e0d3091a9a4bb38b2e86c672c173fd"
+  },
+  {
+    "activityGroupId": "activitygroup-daa2c0cd48814123b88c46b9f3f537f6",
+    "name": "Group Name 8",
+    "description": "",
+    "parentGroupId": "activitygroup-b9c4bec665e74a27bba551bd9dcdb2b3"
+  },
+  {
+    "activityGroupId": "activitygroup-e46eb3d8a1994695a769a37b167b3687",
+    "name": "Group Name 6",
+    "description": "",
+    "parentGroupId": "activitygroup-41515055e350402faec882cf9ef4e401"
+  },
+  {
+    "activityGroupId": "activitygroup-d3e2c362d0594daab6cc938a02044f65",
+    "name": "Group Name 7",
+    "description": "",
+    "parentGroupId": "activitygroup-c234b75ba0d94f20aa046eba69995565"
+  }
+]
